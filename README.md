@@ -2,7 +2,7 @@
 
 ---
 
-# Lane Detection System for Indian Roads by **Sabbu Sashidhar** ([GitHub](https://github.com/sashidhar498)) and **Aluri Sri Moukthika** ([GitHub](https://github.com/SriMoukthika12)
+# Lane Detection System for Indian Roads by **Sabbu Sashidhar** ([GitHub](https://github.com/sashidhar498)) and **Aluri Sri Moukthika** ([GitHub](https://github.com/SriMoukthika12))
 
 This repository contains a lane detection system specifically designed for Indian road conditions. It is developed by **Sabbu Sashidhar** ([GitHub](https://github.com/sashidhar498)) and **Aluri Sri Moukthika** ([GitHub](https://github.com/SriMoukthika12)).
 
